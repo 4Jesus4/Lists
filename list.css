@@ -1,0 +1,40 @@
+header{
+    font-family: monospace;
+    background-color: #2beaffcd;
+    font-size:25px;
+}
+div{
+    background-color: #383838;
+    color: #2beaffcd;
+    padding: 10px;
+    border-radius: 15px;
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+p{
+    font-family:monospace;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: center;
+}
+input{
+    font-family:monospace;
+    color:#2beaffcd;
+    background-color: black;
+    border:solid 2px #2beaffcd;
+    border-radius: 10px;
+    margin:2px;
+    padding: 5px;
+}
+button{
+    font-family: monospace;
+    color:#2beaffcd;
+    background-color: black;
+    border:solid 2px #2beaffcd;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5px;
+}
